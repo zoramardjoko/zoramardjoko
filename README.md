@@ -1,4 +1,4 @@
-### Hi! I'm Zora.
+### ⚡⚡ Hi! I'm Zora.⚡⚡
 
 I'm currently a sophomore at UPenn studying computer science. Fun fact: I love gardening! 🌱 Reach me at mardjoko@seas.upenn.edu
 
