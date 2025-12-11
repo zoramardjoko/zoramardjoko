@@ -1,19 +1,10 @@
-### ⚡⚡ Hi! I'm Zora.⚡⚡
+# ⚡⚡ Hi! I'm Zora.⚡⚡
 
-I'm currently a junior at UPenn studying computer science. Fun fact: I love gardening! 🌱 Reach me at mardjoko@seas.upenn.edu
+## About Me
+- 🎓 I am currently pursuing a BSE and accelerated master's in CIS with a concentration in AI and minor in Math at the University of Pennsylvania
+- 📫 You can reach me via email at mardjoko@seas.upenn.edu or connect with me on [LinkedIn](https://www.linkedin.com/in/zora-mardjoko/).
 
-
-<!--
-**zoramardjoko/zoramardjoko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+Apart from coding, I enjoy:
+- 🏃‍♀️ Running
+- 👩‍🍳 Trying new restaurants
